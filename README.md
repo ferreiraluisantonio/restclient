@@ -10,7 +10,7 @@ REST Full Client for Codeigniter 3
 ### Step 1 Installation by Composer
 #### Run composer
 ```shell
-composer require maltyxx/restclient
+composer require ferreiraluisantonio/restclient
 ```
 
 ### Step 2 Examples
